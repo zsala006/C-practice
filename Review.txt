@@ -1,0 +1,31 @@
+3.4  Data Types                                Page 55
+3.5  Renaming Data types with typedef          Page 57
+3.6  Constants                                 Page 58
+
+3.9  Output Formatting                         Page 64
+3.10 Scope of Variables and Constants          Page 65
+3.11 Advanced Scope Rules                      Page 68
+
+
+Chapter 5                                      Page 85-97
+
+
+7.6  A Word about goto                         Page 132
+
+
+//Chapter 11 Pointers, References                Page 179-197  //
+
+
+12.3 Standard Library Functions for Strings    Page 204
+12.4 Input and Output for Strings              Page 206
+12.5 The apstring Class                        Page 211
+12.8 Formatted Output to a Character Array     Page 219
+
+
+Chapter 13 Structures                          Page 223-238
+
+
+Chapter 14 Modularity                          Page 243-257
+
+
+Chapter 15 Classes and Data Structures         Page 259-277
